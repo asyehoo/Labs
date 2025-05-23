@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\svkil\\source\\repos\\binary trees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8648EF89-7428-41FE-8D1D-B3E1AE41B1F8}|binary trees.vcxproj|C:\\Users\\svkil\\source\\repos\\binary trees\\binary trees.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8648EF89-7428-41FE-8D1D-B3E1AE41B1F8}|binary trees.vcxproj|solutionrelative:binary trees.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "binary trees.cpp",
+              "DocumentMoniker": "C:\\Users\\svkil\\source\\repos\\binary trees\\binary trees.cpp",
+              "RelativeDocumentMoniker": "binary trees.cpp",
+              "ToolTip": "C:\\Users\\svkil\\source\\repos\\binary trees\\binary trees.cpp",
+              "RelativeToolTip": "binary trees.cpp",
+              "ViewState": "AgIAAIQBAAAAAAAAAAAqwK4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T09:11:00.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
